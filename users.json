@@ -1,0 +1,14 @@
+{
+  "users": {
+    "mahmoud": {
+      "password": "admin",
+      "active": true,
+      "count": 4
+    },
+    "khaled": {
+      "password": "khaled_fasah_user_1",
+      "active": true,
+      "count": 4
+    }
+  }
+}
