@@ -3,12 +3,14 @@
     "mahmoud": {
       "password": "admin",
       "active": true,
-      "count": 4
+      "count": 4,
+      "isSubscribed": true
     },
     "khaled": {
       "password": "khaled_fasah_user_1",
       "active": true,
-      "count": 4
+      "count": 4,
+      "isSubscribed": true
     }
   }
 }
