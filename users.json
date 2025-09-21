@@ -13,6 +13,20 @@
       "active": true,
       "count": 3,
       "isSubscribed": true
+    },
+    "emad": {
+      "name": "emad",
+      "password": "emad_fasah_user_2",
+      "active": true,
+      "count": 3,
+      "isSubscribed": true
+    },
+    "emad2": {
+      "name": "emad2",
+      "password": "emad2_fasah_user_3",
+      "active": true,
+      "count": 3,
+      "isSubscribed": true
     }
   }
 }
