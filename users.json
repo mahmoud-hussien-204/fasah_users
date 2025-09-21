@@ -14,6 +14,13 @@
       "count": 3,
       "isSubscribed": true
     },
+    "khaled2": {
+      "name": "khaled2",
+      "password": "khaled2_fasah_user_2",
+      "active": true,
+      "count": 3,
+      "isSubscribed": true
+    },
     "emad": {
       "name": "emad",
       "password": "emad_fasah_user_2",
