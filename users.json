@@ -3,7 +3,7 @@
     "mahmoud": {
       "name": "mahmoud",
       "password": "admin",
-      "active": true,
+      "active": false,
       "count": 4,
       "isSubscribed": true
     },
